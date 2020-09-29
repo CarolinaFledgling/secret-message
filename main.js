@@ -28,7 +28,6 @@ inputTwo.addEventListener('input', (e) => {
 
 const passwordThree = "Nie"
 const messageThree = "Oczywiście, że nie kochamy 🤪 "
-// messageThree.style.lineHeight = "1.8rem"
 const inputThree = document.getElementById('pass-3')
 
 
@@ -44,7 +43,7 @@ inputThree.addEventListener('input', (e) => {
 
 const passwordFour = "tak"
 const messageFour = "Tak, jesteśmy i to już 7 lat 🌈 "
-// messageThree.style.lineHeight = "1.8rem"
+// messageFour.style.color = "red"
 const inputFour = document.getElementById('pass-4')
 
 

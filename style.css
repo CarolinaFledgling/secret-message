@@ -158,7 +158,6 @@ body {
     display: grid;
     justify-content: center;
     align-items: center;
-    /* grid-template-rows: auto 1fr; */
     grid-template-columns: 1fr;
     grid-template-rows: 1fr auto;
   }
@@ -171,17 +170,20 @@ body {
   .question-container__wrapper {
     width: 280px;
     padding: 0.5rem;
+    align-items: center;
   }
 
   .question-container__label {
     padding: 0.5rem;
     font-size: 0.85rem;
+    text-align: center;
   }
   .img img {
     width: 200px;
     grid-row: 3/4;
     grid-column: 1/2;
   }
+
 
   .question-container {
     padding: 0.5rem;
@@ -198,4 +200,5 @@ body {
     grid-row: 2/3;
     grid-column: 1/2;
   }
+  
 }
