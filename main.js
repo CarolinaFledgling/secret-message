@@ -27,7 +27,7 @@ inputTwo.addEventListener('input', (e) => {
 })
 
 const passwordThree = "Nie"
-const messageThree = "Oczywiście, że nie kochamy  "
+const messageThree = "Oczywiście, że nie kochamy 🤪 "
 // messageThree.style.lineHeight = "1.8rem"
 const inputThree = document.getElementById('pass-3')
 
