@@ -84,12 +84,13 @@ body {
   box-shadow: inset 1px 2px 3px #acabab, inset -1px -2px 3px rgb(223, 222, 222);
 }
 
-.question-container__header {
+.header {
   height: 100%;
   padding: 1rem 0 0 2rem;
+  text-align: center;
 }
 
-.question-container__description {
+.header__description {
   font-size: 0.95rem;
   font-weight: 300;
   line-height: 1.8;
@@ -162,9 +163,10 @@ body {
     grid-template-rows: 1fr auto;
   }
 
-  .question-container__header {
+  .header {
     padding-bottom: 2rem;
     margin: 0 auto;
+    
   }
 
   .question-container__wrapper {
@@ -188,7 +190,7 @@ body {
   .question-container {
     padding: 0.5rem;
   }
-  .question-container__description {
+  .header__description {
     font-size: 0.85rem;
   }
 
