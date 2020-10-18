@@ -42,7 +42,7 @@ inputThree.addEventListener('input', (e) => {
 
 
 const passwordFour = "tak"
-const messageFour = "Tak, jesteśmy i to już 7 lat 🌈 "
+const messageFour = "Tak i to bardzo 😝 "
 // messageFour.style.color = "red"
 const inputFour = document.getElementById('pass-4')
 
