@@ -7,10 +7,10 @@ Learning-By-Doing Practice.
 I wanted practice a little bit Javascript.
 
 
-## Preview the website live on : [DEMO](https://carolinafledgling.github.io/Simple-Landing-Page-/)
+## Preview the website live on : [DEMO](https://carolinafledgling.github.io/secret-message/)
 
 ## Screenshots
-![](assets/img/img-readme.jpg)
+![](img/img-readme.jpg)
 
 ## Code Examples
 
