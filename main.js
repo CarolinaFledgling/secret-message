@@ -1,8 +1,8 @@
 const inputOne = document.getElementById('pass-1')
 const wrapperDiv = document.querySelector('.answer-container__wrapper')
 
-const passwordOne = "Ejtminowicz"
-const messageOne = "Brawo! ciężko napisać jej nazwisko prawda 🙈 "
+const passwordOne = "Norway"
+const messageOne = "Yes! I have been living in Oslo for the last 5 years. 🙈 "
 
 inputOne.addEventListener('input', (e) => {
     if (passwordOne.toLowerCase() === e.target.value.toLowerCase()) {
@@ -13,8 +13,8 @@ inputOne.addEventListener('input', (e) => {
 
 })
 
-const passwordTwo = "Kulińska"
-const messageTwo = "Tak, wiem mało kto pamięta o literce ń 🙊 "
+const passwordTwo = "Winter"
+const messageTwo = "Of course Winter ! There are many reason why I love winter: reason first -  building snowmen and having snowball fights, reason second - Christmas lights, reason third - The smell of fresh winter air plus The smell of bonfires, reason fourth - Snuggling up to someone you love, reason fifth - Gingerbread houses etc  🙊 "
 
 const inputTwo = document.getElementById('pass-2')
 
@@ -26,8 +26,8 @@ inputTwo.addEventListener('input', (e) => {
     }
 })
 
-const passwordThree = "Nie"
-const messageThree = "Oczywiście, że nie kochamy 🤪 "
+const passwordThree = "Bayern Monachium"
+const messageThree = "Yes , They are really good. They won 6 times in the Champions League. Btw, I love watching and playing football.🤪"
 const inputThree = document.getElementById('pass-3')
 
 
@@ -41,8 +41,8 @@ inputThree.addEventListener('input', (e) => {
 })
 
 
-const passwordFour = "tak"
-const messageFour = "Tak i to bardzo 😝 "
+const passwordFour = "Yes"
+const messageFour = "I love watching Harry Potter. Did you know  If you play the Harry Potter movies without stopping, it takes 19 hours and 39 minutes. 😝 "
 // messageFour.style.color = "red"
 const inputFour = document.getElementById('pass-4')
 
