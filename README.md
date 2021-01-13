@@ -4,7 +4,7 @@
 ## Description 
 This project was made independently and without any starter code. It is made with HTML, CSS and JavaScript.
 Learning-By-Doing Practice.
-I wanted practice a little bit Javascript.
+In this project I wanted to practice Javascript.
 
 
 ## Preview the website live on : [DEMO](https://carolinafledgling.github.io/secret-message/)
