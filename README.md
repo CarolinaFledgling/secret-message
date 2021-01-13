@@ -10,7 +10,7 @@ I wanted practice a little bit Javascript.
 ## Preview the website live on : [DEMO](https://carolinafledgling.github.io/Simple-Landing-Page-/)
 
 ## Screenshots
-![](assets/img/img-readme.jpg)
+![](img/img-readme.jpg)
 
 ## Code Examples
 
