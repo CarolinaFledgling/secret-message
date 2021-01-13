@@ -3,8 +3,10 @@
 
 ## Description 
 This project was made independently and without any starter code. It is made with HTML, CSS and JavaScript.
-Learning-By-Doing Practice.
+
 In this project I wanted to practice Javascript.
+*If you want to get to know me better , try to answer the questions.  
+**Learning-By-Doing Practice
 
 
 ## Preview the website live on : [DEMO](https://carolinafledgling.github.io/secret-message/)
