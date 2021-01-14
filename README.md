@@ -1,5 +1,5 @@
 
-# secret-message
+# Secret-message
 
 ## Description 
 This project was made independently and without any starter code. It is made with HTML, CSS and JavaScript.
