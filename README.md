@@ -2,7 +2,7 @@
 # Secret-message
 
 ## Description 
-This project was made independently and without any starter code. It is made with HTML, CSS and JavaScript.
+This project was made independently and without any starter code. It is made with HTML, CSS, SASS, BEM and JavaScript.
 
 In this project I wanted to practice Javascript.
 If you want to get to know me better , try to answer the questions.  
